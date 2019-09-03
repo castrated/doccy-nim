@@ -16,7 +16,7 @@ int main(void){
 		😉=😄(😉);
 	}
 	printf("MACHINE WINS.");
-	return 0;
+	return(0);
 }
 int 😃(int 😁, int 😜){
 	if(😜<1||😜>3){
