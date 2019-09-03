@@ -1,4 +1,4 @@
-# doccy-nim
+# pseudo-nim
 the classic game terrifyingly made with emojis.
 
 ## what in fresh hell is this
