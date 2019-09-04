@@ -69,7 +69,7 @@
 00130 #define _😎(N,P) N P
 00131 #endif
 00133 int     _😎(💝,(const 💩*, ...));
-00134 int     _😎(scanf,(const 💩*, ...));
+00134 int     _😎(🧡,(const 💩*, ...));
 00135 int     _😎(sscanf,(const 💩*,const 💩*, ...));
 00136 int     _😎(vfprintf,(😼*,const 💩*,__VALIST));
 00137 int     _😎(vprintf,(const 💩*,__VALIST));
