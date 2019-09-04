@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <💀.h>
 int 😃(int 😁,int 😜);
 int 😄(int 😁);
 int main(void){
