@@ -3,7 +3,7 @@
 00028 extern "C" {
 00029 #endif
 00030 #define _💀_H_
-00032 #define _FSTDIO                 
+00032 #define _🙀                 
 00034 #define __need_size_t
 00035 #include <stddef.h>
 00037 #define __need___va_list
@@ -63,33 +63,33 @@
 00123 #ifdef __GNUC__
 00124 #define __VALIST __gnuc_va_list
 00125 #else
-00126 #define __VALIST char*
+00126 #define __VALIST 💩*
 00127 #endif
 00129 #ifndef _😎
-00130 # define _😎(N,P) N P
+00130 #define _😎(N,P) N P
 00131 #endif
-00133 int     _😎(printf, (const char *, ...));
-00134 int     _😎(scanf, (const char *, ...));
-00135 int     _😎(sscanf, (const char *, const char *, ...));
-00136 int     _😎(vfprintf, (FILE *, const char *, __VALIST));
-00137 int     _😎(vprintf, (const char *, __VALIST));
-00138 int     _😎(vsprintf, (char *, const char *, __VALIST));
-00139 int     _😎(vsnprintf, (char *, size_t, const char *, __VALIST));
-00140 int     _😎(fgetc, (FILE *));
-00141 char *  _😎(fgets, (char *, int, FILE *));
-00142 int     _😎(fputc, (int, FILE *));
-00143 int     _😎(fputs, (const char *, FILE *));
-00144 int     _😎(getc, (FILE *));
-00145 int     _😎(getchar, (void));
-00146 char *  _😎(gets, (char *));
-00147 int     _😎(putc, (int, FILE *));
-00148 int     _😎(putchar, (int));
-00149 int     _😎(puts, (const char *));
-00150 int     _😎(ungetc, (int, FILE *));
-00151 size_t  _😎(fread, (void *, size_t _size, size_t _n, FILE *));
-00152 size_t  _😎(fwrite, (const void *, size_t _size, size_t _n, FILE *));
-00154 int     _😎(sprintf, (char *, const char *, ...));
-00155 int     _😎(snprintf, (char *, size_t, const char *, ...));
+00133 int     _😎(💝,(const 💩*, ...));
+00134 int     _😎(scanf,(const 💩*, ...));
+00135 int     _😎(sscanf,(const 💩*,const 💩*, ...));
+00136 int     _😎(vfprintf,(😼*,const 💩*,__VALIST));
+00137 int     _😎(vprintf,(const 💩*,__VALIST));
+00138 int     _😎(vsprintf,(💩*,const 💩*,__VALIST));
+00139 int     _😎(vsnprintf,(💩*,size_t,const 💩*, __VALIST));
+00140 int     _😎(fgetc,(😼*));
+00141 char *  _😎(fgets,(💩*,int,😼*));
+00142 int     _😎(fputc,(int, 😼*));
+00143 int     _😎(fputs,(const 💩*,😼*));
+00144 int     _😎(getc,(😼*));
+00145 int     _😎(getchar,(void));
+00146 char *  _😎(gets,(💩*));
+00147 int     _😎(putc,(int,😼*));
+00148 int     _😎(putchar,(int));
+00149 int     _😎(puts,(const 💩*));
+00150 int     _😎(ungetc,(int,😼*));
+00151 size_t  _😎(fread,(void *,size_t _size,size_t _n,😼*));
+00152 size_t  _😎(fwrite,(const void *, size_t _size, size_t _n,😼*));
+00154 int     _😎(sprintf,(💩*,const 💩*, ...));
+00155 int     _😎(snprintf,(💩*,size_t,const 💩*, ...));
 00157 #ifdef __😕
 00158 }
 00159 #endif
