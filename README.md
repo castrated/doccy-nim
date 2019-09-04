@@ -13,7 +13,7 @@ in order from highest priority to lowest:
 2. make all pointers in emoji
 3. change memory addresses to unicode emoji addresses
 4. make any remaining non-emoji characters in remainder emoji addresses (modulo plan)
-5. write new header files in emoji (stdio.h)
+5. ~~write new header files in emoji (stdio.h)~~
 6. force user input to be emoji memory addresses (unicode alt combo)
 7. eliminate whitespace by writing whitespace to emoji pointers
 8. obtain CEO rank at current company i work for by making everything secure in emoji assembler language
