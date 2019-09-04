@@ -70,26 +70,26 @@
 00131 #endif
 00133 int     _😎(💝,(const 💩*, ...));
 00134 int     _😎(🧡,(const 💩*, ...));
-00135 int     _😎(sscanf,(const 💩*,const 💩*, ...));
-00136 int     _😎(vfprintf,(😼*,const 💩*,__VALIST));
-00137 int     _😎(vprintf,(const 💩*,__VALIST));
-00138 int     _😎(vsprintf,(💩*,const 💩*,__VALIST));
-00139 int     _😎(vsnprintf,(💩*,size_t,const 💩*, __VALIST));
-00140 int     _😎(fgetc,(😼*));
-00141 char *  _😎(fgets,(💩*,int,😼*));
-00142 int     _😎(fputc,(int, 😼*));
-00143 int     _😎(fputs,(const 💩*,😼*));
-00144 int     _😎(getc,(😼*));
-00145 int     _😎(getchar,(void));
-00146 char *  _😎(gets,(💩*));
-00147 int     _😎(putc,(int,😼*));
-00148 int     _😎(putchar,(int));
-00149 int     _😎(puts,(const 💩*));
-00150 int     _😎(ungetc,(int,😼*));
-00151 size_t  _😎(fread,(void *,size_t _size,size_t _n,😼*));
-00152 size_t  _😎(fwrite,(const void *, size_t _size, size_t _n,😼*));
-00154 int     _😎(sprintf,(💩*,const 💩*, ...));
-00155 int     _😎(snprintf,(💩*,size_t,const 💩*, ...));
+00135 int     _😎(👨,(const 💩*,const 💩*, ...));
+00136 int     _😎(👱,(😼*,const 💩*,__VALIST));
+00137 int     _😎(👩‍,(const 💩*,__VALIST));
+00138 int     _😎(🧓,(💩*,const 💩*,__VALIST));
+00139 int     _😎(🧜‍♀️,(💩*,size_t,const 💩*, __VALIST));
+00140 int     _😎(🧞,(😼*));
+00141 char *  _😎(👯,(💩*,int,😼*));
+00142 int     _😎(💃,(int, 😼*));
+00143 int     _😎(🙍,(const 💩*,😼*));
+00144 int     _😎(🏇,(😼*));
+00145 int     _😎(🏊,(void));
+00146 char *  _😎(🛀,(💩*));
+00147 int     _😎(👣,(int,😼*));
+00148 int     _😎(🐒,(int));
+00149 int     _😎(🙆‍♂️,(const 💩*));
+00150 int     _😎(🐯,(int,😼*));
+00151 size_t  _😎(🐮,(void *,size_t _size,size_t _n,😼*));
+00152 size_t  _😎(🐷,(const void *, size_t _size, size_t _n,😼*));
+00154 int     _😎(👫,(💩*,const 💩*, ...));
+00155 int     _😎(🧟‍♀️,(💩*,size_t,const 💩*, ...));
 00157 #ifdef __😕
 00158 }
 00159 #endif
