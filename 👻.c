@@ -7,7 +7,7 @@ int main(void){
 	while(😉>0){
 		💝("STICK NUMBER YOU WISH TO TAKE: ");
 		int 🧐;
-		scanf("%i",&🧐);
+		🧡("%i",&🧐);
 		int 🤔=😃(😉,🧐);
 		if(🤔==😉){
 			continue;
