@@ -17,3 +17,7 @@ in order from highest priority to lowest:
 6. force user input to be emoji memory addresses (unicode alt combo)
 7. eliminate whitespace by writing whitespace to emoji pointers
 8. obtain CEO rank at current company i work for by making everything secure in emoji assembler language
+
+## known issues
+yes, i'm aware you have to edit GCC/clang to run this technical abortion. i'm working on it.
+yes, i'm working on new header files for full C-porting
