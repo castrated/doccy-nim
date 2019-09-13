@@ -10,7 +10,7 @@ in order from highest priority to lowest:
 
 0. cast functions to pointers
 1. cast variables to pointers
-2. make all pointers in emoji
+2. ~~make all pointers in emoji~~
 3. change memory addresses to unicode emoji addresses
 4. make any remaining non-emoji characters in remainder emoji addresses (modulo plan)
 5. ~~write new header files in emoji (stdio.h)~~
